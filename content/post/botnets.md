@@ -9,5 +9,7 @@ tags: ["cybersecurity", "botnets"]
 ## Introduction
 Botnets are a network of devices, can be a laptop or a smartphone, that are infected by malware and are under the control of a **botmaster**, also called a **bot-herder**.
 
+There are 2 types of botnets:
+
 
 ## References
